@@ -1,1 +1,4 @@
-Simple blackjack game writtem in C#
+Blackjack
+=========
+
+Single player blackjack game GUI written in C#
